@@ -1,7 +1,7 @@
 # ${\color{red} Path\ Traversal\ and\ Obstacle\ sensing\ robot\ using\ Arduino\ UNO}$
 
 # ✅ ${\color{green} Objective}$
-- To develop an autonomous mobile robot using Arduino Uno that can follow a predefined path using infrared sensors while detecting and avoiding obstacles in real time through ultrasonic sensing, ensuring safe, adaptive navigation in dynamic environments.
+To develop an autonomous mobile robot using Arduino Uno that can follow a predefined path using infrared sensors while detecting and avoiding obstacles in real time through ultrasonic sensing, ensuring safe, adaptive navigation in dynamic environments.
   
 # 🛠️ ${\color{grey} Tools\ Used}$
 - Arduino Uno (Microcontroller)
@@ -79,5 +79,4 @@
 - Real-time sensor fusion helps adapt to dynamic environments.
 
 # 🧾 ${\color{black} Conclusion}$
-- This project successfully demonstrates an Arduino-based autonomous robot that accurately follows paths and intelligently avoids obstacles using integrated infrared and ultrasonic sensing.
-  
+This project successfully demonstrates an Arduino-based autonomous robot that accurately follows paths and intelligently avoids obstacles using integrated infrared and ultrasonic sensing.
